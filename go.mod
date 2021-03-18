@@ -1,3 +1,3 @@
-module v1
+module github.com/laskal05/payjp-go
 
-go 1.15
+go 1.16
